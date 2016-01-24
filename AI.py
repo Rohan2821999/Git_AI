@@ -1,5 +1,6 @@
 # An Artificially Intelligent Virtual Assistant for tasks like Home Automation, Websearches and artifical learning algorithm
 # Developer: Rohan Hundia
+
 import urllib
 import urllib2 
 import json
